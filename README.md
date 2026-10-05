@@ -86,15 +86,14 @@ I'm a **Software Engineer** with an **M.S. in Computer Science from Northeastern
 
 <br>
 
-## 🔄 Contribution Flow
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contribution%20Snake-Auto%20Generated-2563EB?style=for-the-badge&logo=githubactions&logoColor=white" alt="Contribution Snake Auto Generated">
-  <img src="https://img.shields.io/badge/Status-Activating-0891B2?style=for-the-badge" alt="Status Activating">
-</p>
-
-<p align="center">
-  <sub>The live contribution snake is generated through GitHub Actions and will appear automatically after the first successful workflow run.</sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyushMiharia/AyushMiharia/gh-pages/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyushMiharia/AyushMiharia/gh-pages/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/AyushMiharia/AyushMiharia/gh-pages/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 <br>
