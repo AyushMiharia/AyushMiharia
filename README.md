@@ -103,7 +103,6 @@ I'm a **Software Engineer** with an **M.S. in Computer Science from Northeastern
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayushmiharia"><img src="https://img.shields.io/badge/LinkedIn-Ayush%20Miharia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:ayushmiharia.fall2024@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-0369A1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/AyushMiharia"><img src="https://img.shields.io/badge/GitHub-AyushMiharia-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
