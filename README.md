@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1220,50:1E3A8A,100:0891B2&text=AYUSH%20MIHARIA&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Data%20Infrastructure%20%E2%80%A2%20Cloud&descAlignY=58&descSize=17&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:E0F2FE,50:60A5FA,100:0E7490&text=AYUSH%20MIHARIA&fontColor=0F172A&fontSize=46&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Data%20Infrastructure%20%E2%80%A2%20Cloud&descAlignY=58&descSize=17&animation=fadeIn">
-    <img width="100%" alt="Ayush Miharia Banner" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1220,50:1E3A8A,100:0891B2&text=AYUSH%20MIHARIA&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Data%20Infrastructure%20%E2%80%A2%20Cloud&descAlignY=58&descSize=17&animation=fadeIn">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyushMiharia/AyushMiharia/main/assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyushMiharia/AyushMiharia/main/assets/header-light.svg">
+    <img width="100%" alt="Ayush Miharia Banner" src="https://raw.githubusercontent.com/AyushMiharia/AyushMiharia/main/assets/header-light.svg">
   </picture>
 </p>
 
@@ -83,20 +83,18 @@ I'm a **Software Engineer** with an **M.S. in Computer Science from Northeastern
   <img width="49%" src="https://streak-stats.demolab.com?user=AyushMiharia&hide_border=true&background=00000000&ring=2563EB&fire=06B6D4&currStreakLabel=38BDF8&sideLabels=64748B&dates=64748B&currStreakNum=0EA5E9&sideNums=2563EB" alt="GitHub Streak">
 </p>
 
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=AyushMiharia&bg_color=transparent&color=38BDF8&line=2563EB&point=06B6D4&area=true&area_color=0EA5E9&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph">
-</p>
 
 <br>
 
-## 🐍 Contribution Snake
+## 🔄 Contribution Flow
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyushMiharia/AyushMiharia/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyushMiharia/AyushMiharia/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/AyushMiharia/AyushMiharia/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://img.shields.io/badge/Contribution%20Snake-Auto%20Generated-2563EB?style=for-the-badge&logo=githubactions&logoColor=white" alt="Contribution Snake Auto Generated">
+  <img src="https://img.shields.io/badge/Status-Activating-0891B2?style=for-the-badge" alt="Status Activating">
+</p>
+
+<p align="center">
+  <sub>The live contribution snake is generated through GitHub Actions and will appear automatically after the first successful workflow run.</sub>
 </p>
 
 <br>
@@ -118,5 +116,9 @@ I'm a **Software Engineer** with an **M.S. in Computer Science from Northeastern
 </div>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0B1220,45:1D4ED8,100:0891B2" alt="Footer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyushMiharia/AyushMiharia/main/assets/footer-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyushMiharia/AyushMiharia/main/assets/footer-light.svg">
+    <img width="100%" alt="Footer" src="https://raw.githubusercontent.com/AyushMiharia/AyushMiharia/main/assets/footer-light.svg">
+  </picture>
 </p>
