@@ -1,0 +1,20 @@
+<svg width="1280" height="280" viewBox="0 0 1280 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="280"><stop stop-color="#0B1220"/><stop offset=".55" stop-color="#132A63"/><stop offset="1" stop-color="#0A7EA4"/></linearGradient>
+  <radialGradient id="g1" cx="0" cy="0" r="1" gradientTransform="translate(950 70) rotate(90) scale(150 300)" gradientUnits="userSpaceOnUse"><stop stop-color="#38BDF8" stop-opacity=".30"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+</defs>
+<rect x="8" y="8" width="1264" height="264" rx="26" fill="url(#bg)"/>
+<rect x="8" y="8" width="1264" height="264" rx="26" fill="url(#g1)"/>
+<rect x="8.75" y="8.75" width="1262.5" height="262.5" rx="25.25" stroke="#60A5FA" stroke-opacity=".24" stroke-width="1.5"/>
+<path d="M8 220C110 205 150 246 245 236C335 226 390 190 480 196C590 204 628 238 735 235C835 232 890 198 980 198C1085 198 1160 228 1272 212V246C1272 260 1260 272 1246 272H34C20 272 8 260 8 246V220Z" fill="#020817" fill-opacity=".34"/>
+<path d="M8 232C120 240 170 207 260 206C365 204 405 234 515 234C610 234 675 201 770 201C875 201 940 232 1048 232C1135 232 1212 209 1272 221" stroke="#7DD3FC" stroke-opacity=".20" stroke-width="2"/>
+<g opacity=".9" fill="#B8C7E8" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="3.2"><text x="78" y="75">BUILD</text><text x="78" y="101">SCALE</text><text x="78" y="127">LEARN</text></g>
+<text x="640" y="118" text-anchor="middle" fill="#F8FAFC" font-size="54" font-weight="700" font-family="Segoe UI,Arial,sans-serif">AYUSH MIHARIA</text>
+<text x="640" y="156" text-anchor="middle" fill="#D7E7FF" font-size="18" font-family="Segoe UI,Arial,sans-serif" letter-spacing="4">SOFTWARE ENGINEER  •  DATA INFRASTRUCTURE  •  CLOUD</text>
+<g font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="1.8">
+  <rect x="975" y="76" width="190" height="30" rx="15" fill="#0F1D3C" fill-opacity=".72" stroke="#5AA9FA" stroke-opacity=".36"/>
+  <text x="1070" y="96" text-anchor="middle" fill="#D7ECFF">JAVA • PYTHON • SQL</text>
+  <rect x="1000" y="118" width="165" height="30" rx="15" fill="#0F1D3C" fill-opacity=".72" stroke="#5AA9FA" stroke-opacity=".36"/>
+  <text x="1082" y="138" text-anchor="middle" fill="#D7ECFF">AWS • POSTGRESQL</text>
+</g>
+</svg>
